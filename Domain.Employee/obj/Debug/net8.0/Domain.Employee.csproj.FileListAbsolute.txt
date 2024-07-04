@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.AssemblyInfo.cs
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\bin\Debug\net8.0\Domain.Employee.deps.json
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\bin\Debug\net8.0\Domain.Employee.runtimeconfig.json
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\bin\Debug\net8.0\Domain.Employee.dll
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\bin\Debug\net8.0\Domain.Employee.pdb
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.dll
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\refint\Domain.Employee.dll
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.pdb
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\Domain.Employee.genruntimeconfig.cache
+C:\Users\user\source\repos\EmployeeMangmentSys\Domain.Employee\obj\Debug\net8.0\ref\Domain.Employee.dll
